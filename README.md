@@ -9,3 +9,4 @@ This repository aims at integrating all kinds of interesting and awesome researc
 ## Research Articles
 - [[**CVPR2020**]()][[**oral**]()] High-Resolution Daytime Translation Without Domain Labels: https://saic-mdal.github.io/HiDT/
 看视频结果感觉最震撼的是style transfer时候的平滑过渡，cyclegan的斑马到马的转换，还是有很大抖动的，这个回头自己试一试效果
+- [[**Symposium on Computer Animation**]()] VIPER: Volume Invariant Position-based Elastic Rods: https://www.youtube.com/watch?v=higGxGmwDbs&t=210s
