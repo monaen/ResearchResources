@@ -16,4 +16,4 @@ This repository aims at integrating all kinds of interesting and awesome researc
 
 
 ## Person
-- [Rebecca Willett](https://voices.uchicage.edu/willett):machine learning, statistics, learning theory, algebraic geometry, optical engineering, statistical signal processing and optimization theory
+- [Rebecca Willett](https://voices.uchicage.edu/willett): machine learning, statistics, learning theory, algebraic geometry, optical engineering, statistical signal processing and optimization theory (Lam曾极力推荐的)
