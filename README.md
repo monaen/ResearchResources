@@ -13,3 +13,7 @@ This repository aims at integrating all kinds of interesting and awesome researc
 - [[**Symposium on Computer Animation**]()] VIPER: Volume Invariant Position-based Elastic Rods: 一篇很优秀的文章，同时给出了很好的software，后续安排时间看看
 [[**视频**](https://www.youtube.com/watch?v=higGxGmwDbs&t=210s)] [[**文章**](https://arxiv.org/abs/1906.05260)] 
 **推荐指数:** :sparkles::sparkles::star::star::star:
+
+
+## Person
+- [Rebecca Willett](https://voices.uchicage.edu/willett):machine learning, statistics, learning theory, algebraic geometry, optical engineering, statistical signal processing and optimization theory
